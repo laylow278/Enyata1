@@ -1,0 +1,218 @@
+.navbar{
+    background-color: #029F58 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+#build{
+    font-size: 65px;
+    position: relative;
+    bottom: 150px;
+}
+.favourite{
+    position: relative;
+    top: -100px;
+    font-size: 16px;
+}
+.fontWeight{
+    font-size: 40px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: lighter;
+}
+.fontWeight1{
+    font-size: 40px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: normal;
+}
+.fontWeight2{
+    font-size: 25px;
+    font-family: 'Roboto' sans-serif;
+    font-weight: normal;
+}
+.storesButtons{
+    position: relative;
+    bottom: 50px;
+}
+#helpYouDo{
+    color: #029F58;
+}
+.people{
+    /* position: relative;
+    left: 15%; */
+}
+.fans{
+    background-color: #FFBB62 !important;
+    border-radius: 50px !important;
+    position: relative;
+    top: -90px;
+    
+}
+.connect, .helpYouDo{
+    padding: 15px !important;
+}
+.lay{
+    height: 550px;
+    padding: 15px !important;
+    
+}
+.layy{
+    height: 550px;
+    padding: 15px !important;
+    
+}
+.low{
+    height: 550px;
+    
+}
+.loww{
+    height: 550px;
+    
+}
+.assuredText{
+    color: #fff;
+}
+.section-title{
+    position: relative;
+    top: -70px;
+}
+#chatIcon{
+    float: right;
+    position: relative;
+    top: -95px;
+    border-radius: 100px;
+    transition: all 3s ease;
+}
+.influencer{
+    padding: 15px !important;
+}
+.influencerButton{
+    background-color: #FF8C62 !important;
+    border-radius: 50px !important;
+    position: relative;
+    top: -20px;
+}
+.influencerButton2{
+    background-color: #FF8C62 !important;
+    /* color: #fff !important; */
+    border-radius: 50px !important;
+    position: relative;
+    top: -90px;
+}
+.mobile{
+    position: relative;
+    /* left: 12%; */
+}
+.filter{
+    color: #fff;
+}
+.responsive {
+  max-width: 100%;
+  height: 500px;
+ 
+}
+.assurance{
+    color: #029F58;
+}
+.well{
+    padding: 35px;
+}
+.ellipse6{
+    position: relative;
+    right: 8px;
+    /* top: 0.5px; */
+}
+.simpleStart{
+    padding: 15px;
+}
+.line{
+    position: absolute;
+    position: relative;
+    left: 6.2%;
+    bottom: 123px;
+    z-index: -1;
+}
+.line2{
+    position: absolute;
+    position: relative;
+    left: 6.2%;
+    bottom: 292px;
+    z-index: -1;
+}
+.step2{
+    position: relative;
+    bottom: 170px;
+}
+.step3{
+    position: relative;
+    bottom: 340px;
+}
+.black{
+    position: relative;
+    bottom: 70px;
+}
+.tired{
+    position: relative;
+    bottom: 305px;
+    /* border-radius: 50px; */
+    z-index: 999;
+    height: auto;
+}
+#buildd{
+    font-size: 65px;
+    position: relative;
+    /* bottom: 150px; */
+    color: white;
+}
+.bestChoice{
+    color: white;
+    font-size: 16px;
+    position:relative;
+    top: 10px;
+}
+.storesButtonss{
+    position: relative;
+    top: 20px;
+}
+.featureSection{
+    /* background-color: crimson; */
+    height: 928px;
+}
+.laay{
+    height: 628px;
+    
+}
+
+.loow{
+    height: 628px;
+    
+}
+.handPhone{
+    position: relative;
+    /* left: 15%; */
+    top: 18px;
+
+}
+.up{
+    position: relative;
+    top: -230px;
+}
+.ssss{
+    position: relative;
+    right: 0%;
+}
+.form1{
+    width: 70% !important;
+}
+#horizontalLine{
+    width: 84%;
+}
+.form-label{
+    font-size: 12px;
+}
+.btn-dark{
+    position: relative;
+    left: 98%;
+    top: -36px;
+    border-bottom-left-radius: 0% !important;
+    border-top-left-radius: 0% !important;
+}
